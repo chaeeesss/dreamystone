@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>드리미스톤 회원가입</title>
+
+<body>
+ <marquee width="1500" height="60" bgcolor="beige" direction="left" scrolldelay="30">
+        <font face="sans-serif" color="black" size="30">당신의 행복, 드리미스톤</font>
+    </marquee>
+
+<center> <font color="Black">
+	<h3> 당신의 행복, 드리미스톤 </h3></font> 
+	<font color="black"> 드리미스톤 회원가입을 환영합니다 </font>
+	 	</center>
+		
+
+
+    <hr height="3px" color="beige">
+	<br>
+                         
+		<table border="0" cellpadding="3" cellspacing="1" bgcolor="#000000" align="center">
+		        <tr>           
+			<td bgcolor="#EEDEC7" colspan="2" align="center">
+				<b>개인 정보 입력</b>
+			</td></tr>
+		       
+		         <tr>
+			<td bgcolor="#FFFAE9" align="center"><b>아이디(영어와 숫자를 혼용)</b></td>
+			<td bgcolor="#FFFFFF">                        
+			        <input type="text" name="jumin" size="20">  예)webprogam2024
+			</td></tr>
+
+			<tr>
+			<td bgcolor="#FFFAE9" align="center"><b>비밀번호(8자 이상)</b></td>
+			<td bgcolor="#FFFFFF">  
+			 <input type="text" name="jumin" size="20">
+			</td></tr>
+<tr>
+			<td bgcolor="#FFFAE9" align="center"><b>생년월일(8글자로 입력하세요)</b></td>
+			<td bgcolor="#FFFFFF">  
+                                                     
+			        <input type="text" name="jumin" size="20">  예) 20001010
+			</td></tr>
+
+			<tr>
+			<td bgcolor="#FFFAE9" align="center"><b>연락처(휴대전화)</b></td>
+			<td bgcolor="#FFFFFF">  
+                                                     
+			        <input type="text" name="jumin" size="20">  예)010-1234-4567
+			</td></tr>
+		         
+		</table><br>
+
+		<hr height="4px" color="beige"> 	<br>
+
+		<center> 
+		         <input type="submit" value="회원 가입">                               
+		         <input type="reset" value="입력 취소">
+		</center>
+	            
+	</form>
+</body>
+</html>
